@@ -1,7 +1,7 @@
-# CSC421
-Operating System CSC 421 University of Miami
+# CSC421 Operating System
 
-
+Operating System CSC 421 
+University of Miami
 2020 Spring semester
 
 HW 1: Linkedlist.b 
